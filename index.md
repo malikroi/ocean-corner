@@ -4,7 +4,7 @@ Dans ce monde moderne et numérique, les consommateurs sont constamment bombard�
 Les consommateurs veulent être entendus. <a href="https://ocean-corner.com/">Ocean Corner</a> veut donner aux consommateurs la possibilité de partager leurs opinions dans une communauté authentique, axée sur les consommateurs, qui profite à la fois au consommateur et aux marques. En janvier 2016, Ocean Corner est né. Le fondateur a développé la plateforme dans trois buts :
 <ul>
  	<li>Donner à une communauté de consommateurs la possibilité de partager des avis honnêtes et impartiaux</li>
- 	<li>Pour aider les consommateurs à réduire leurs choix d'achat</li>
+ 	<li>Pour aider les consommateurs à réduire leurs <a href="https://buff.ly/2WK8X5J">choix d'achat</a></li>
  	<li>Promouvoir les entreprises qui apprécient l'importance des examens authentiques</li>
 </ul>
 Avec des milliers d'avis, Ocean Corner permet aux consommateurs de libérer tout le potentiel de leurs options d'achat.
